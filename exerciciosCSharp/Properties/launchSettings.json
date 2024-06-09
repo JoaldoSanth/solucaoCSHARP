@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "exerciciosCSharp": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
